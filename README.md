@@ -24,5 +24,6 @@ Minimum Requirements to use it:
 1. Intel Core i3/i5/i7 4th Gen Haswell or newer architecture CPU.
 2. AMD Excavator or newer architecture CPU.
 
+I am also working on a counterpart engine which I named Pinaka (can be found at Pinaka-Chess-Engine) which will play with opposite philosophy as Trishul as Trishul is made to play aggressively but I will make Pinaka so it plays super defensively like a fortress. 
 
 I am extremely open to all the other developers to participate and help me with this project. 
