@@ -1,5 +1,6 @@
-# Trishul-Chess-Engine
-It is my hobby chess engine. 
+# Trishul-Chess-Engine by Monank Gohil
+
+I am Monank Gohil and while I am publishing this engine I am 15 years old and this is my hobby chess engine. 
 
 When I started building it I never imagined it would become so strong but it surpassed my imagination and thus I am publishing it so other developers can help me make it even better.
 
