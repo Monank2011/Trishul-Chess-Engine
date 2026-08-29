@@ -31,4 +31,4 @@ I am extremely open to all the other developers to participate and help me with 
 
 You can contact me in my Discord server. 
 Trishul Chess Engine:
-https://discord.gg/u5fCqTB7b
+https://discord.gg/rRECwScvdR
