@@ -27,4 +27,8 @@ Minimum Requirements to use it:
 
 I am also working on a counterpart engine which I named Pinaka (can be found at Pinaka-Chess-Engine) which will play with opposite philosophy as Trishul as Trishul is made to play aggressively but I will make Pinaka so it plays super defensively like a fortress. 
 
-I am extremely open to all the other developers to participate and help me with this project. 
+I am extremely open to all the other developers to participate and help me with this project.
+
+You can contact me in my Discord server. 
+Trishul Chess Engine:
+https://discord.gg/u5fCqTB7b
