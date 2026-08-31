@@ -29,6 +29,6 @@ I am also working on a counterpart engine which I named Pinaka (can be found at 
 
 I am extremely open to all the other developers to participate and help me with this project.
 
-You can contact me in my Discord server. 
+You can join my Discord Server to know more about this engine and become a contributor.
 Trishul Chess Engine:
 https://discord.gg/rRECwScvdR
