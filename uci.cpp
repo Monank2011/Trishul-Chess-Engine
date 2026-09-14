@@ -239,7 +239,7 @@ void uciLoop()
                 << "option name UseBook type check default true\n";
 
             std::cout
-                << "option name BookFile type string default book.txt\n";
+                << "option name BookFile type string default OpeningBook.txt\n";
 
             std::cout
                 << "option name UseNNUE type check default false\n";
